@@ -10,6 +10,14 @@ Gatsby Redux starter
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration with Redux files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
+## Demo
+
+https://gatsby-redux-starter.netlify.com/
+
+## Features
+
+- [Redux](https://github.com/reactjs/redux)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
